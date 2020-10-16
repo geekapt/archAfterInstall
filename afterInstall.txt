@@ -18,3 +18,4 @@ light
 wget
 network-manager-applet
 gnome-keyring
+git clone https://aur.archlinux.org/yay-git.git
