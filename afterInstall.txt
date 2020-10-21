@@ -19,3 +19,8 @@ wget
 network-manager-applet
 gnome-keyring
 git clone https://aur.archlinux.org/yay-git.git
+ttf-droid
+acpi
+dunst
+uberzug
+w3m
