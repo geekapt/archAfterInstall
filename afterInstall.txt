@@ -24,3 +24,7 @@ acpi
 dunst
 uberzug
 w3m
+dhcpcd
+b43-fwcutter
+broadcom-wl
+netctl
